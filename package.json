@@ -1,0 +1,19 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "cit281p3",
+  "main": "p3-server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cp3"
+  },
+  "author": "MenuGem",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^5.1.0"
+  }
+}
